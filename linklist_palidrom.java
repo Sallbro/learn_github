@@ -57,6 +57,6 @@ public class linklist_palidrom {
         ll.add_data(3);
         ll.add_data(2);
         boolean ans = ll.palidrome();
-        System.out.println("ans " + ans);
+        System.out.println("ans is " + ans);
     }
 }
